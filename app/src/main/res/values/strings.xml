@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Birdex</string>
+    <string name="title_home">Birdex</string>
+    <string name="birdex">Birdex</string>
+    <string name="myBirds">My Birds</string>
+    <string name="map">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

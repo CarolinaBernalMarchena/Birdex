@@ -22,7 +22,7 @@ In this project I created the Birdex application, which serves as an ornithologi
 *Seen birds list*
 
 ![Screenshot_20240506_164423_Birdex](https://github.com/CarolinaBernalMarchena/Birdex/assets/62402017/a6cd2f73-7b45-43d8-93c4-da34762b6594)
-*This view shows a map created using My Maps, showing different places where you can watch different birds.*
+*This view shows a map created using My Maps, showing different places where you can watch different birds*
 
 ## Demo video:
 https://youtu.be/LFqS5bywECM
